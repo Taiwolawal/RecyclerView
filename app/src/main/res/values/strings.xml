@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">The Recycler</string>
+
+    <string-array name="premiership_clubs">
+        <item>Afc Bournemouth </item>
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Chelsea</item>
+        <item>Crystal Palace</item>
+        <item>Leicester City</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Norwich</item>
+        <item>Southampton</item>
+        <item>Tottenham Hotspur</item>
+        <item>Watford</item>
+        <item>West Ham</item>
+        <item>Wolverhampton</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>This is Afc Bournemouth</item>
+        <item>This is Arsenal</item>
+        <item>This is Aston Villa</item>
+        <item>This is Chelsea</item>
+        <item>This is Crystal Palace</item>
+        <item>This is Leicester City</item>
+        <item>This is Liverpool</item>
+        <item>This is Manchester City</item>
+        <item>This is Manchester United</item>
+        <item>This is Newcastle United</item>
+        <item>This is Norwich</item>
+        <item>This is Southampton</item>
+        <item>This is Tottenham Hotspur</item>
+        <item>This is Watford</item>
+        <item>This is West Ham</item>
+        <item>This is Wolverhampton</item>
+    </string-array>
+
+
+</resources>
